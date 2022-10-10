@@ -7,7 +7,7 @@
 <body>
 	<outline text="08. Aptos" title="08. Aptos">
 		<outline text="Aptos twitter" title="Aptos twitter" description="" type="rss" version="RSS" htmlUrl="https://rsshub.app/twitter/AptosLabs/" xmlUrl="https://rsshub.app/twitter/AptosLabs/feed"/>
-		<outline text="wxy twitter" title="wxy twitter" description="" type="rss" version="RSS" htmlUrl="https://rsshub.app/twitter/wangxin83223544/" xmlUrl="https://rsshub.app/twitter/wangxin83223544/feed"/>
+		<outline text="wxy mirror" title="wxy mirror" description="" type="rss" version="RSS" htmlUrl="https://mirror.xyz/0xe8e39Cc8c2C4f554400322C3f434Fe0Dd9680348" xmlUrl="https://mirror.xyz/0xe8e39Cc8c2C4f554400322C3f434Fe0Dd9680348/feed"/>
 		<outline text="Aptos mirror" title="Aptos mirror" description="" type="rss" version="RSS" htmlUrl="https://mirror.xyz/aptoslabsoffice.eth/" xmlUrl="https://mirror.xyz/aptoslabsoffice.eth/feed/atom">
 		<outline text="Aptos blog" title="Aptos blog" description="" type="rss" version="RSS" htmlUrl="https://www.aptos.com/blog/" xmlUrl="https://www.aptos.com/blog/feed/"/>
 		<outline text="Messari Crypto News Feed" title="Messari Crypto News Feed" description="" type="rss" version="RSS" htmlUrl="https://messari.io/" xmlUrl="https://messari.io/rss"/>
