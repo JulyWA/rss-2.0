@@ -6,7 +6,7 @@
 	</head>
 <body>
 	<outline text="08. Aptos" title="08. Aptos">
-		<outline text="Aptos" title="08. Aptos"" type="rss" version="RSS" htmlUrl="https://rsshub.app/twitter/AptosLabs" xmlUrl="https://rsshub.app/twitter/AptosLabs/feed"/>
+		<outline text="Aptos" title="08. Aptos"" type="rss" version="RSS" htmlUrl="https://rsshub.app/twitter/AptosLabs/:routeParams?" xmlUrl="https://rsshub.app/twitter/AptosLabs/:routeParams?/feed"/>
 	</outline>
 	</body>
 </opml>
