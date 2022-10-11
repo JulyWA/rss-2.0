@@ -7,7 +7,7 @@
 <body>
 	<outline text="08. Aptos" title="08. Aptos">
 		<outline text="Aptos mirror" title="Aptos mirror" description="" type="rss" version="RSS" htmlUrl="https://mirror.xyz/aptoslabsoffice.eth/" xmlUrl="https://mirror.xyz/aptoslabsoffice.eth/feed/atom">
-		<outline text="Aptos blog" title="Aptos blog" description="" type="rss" version="RSS" htmlUrl="https://www.aptos.com/blog/" xmlUrl="https://www.aptos.com/blog/feed"/>
+		<outline text="Aptos blog" title="Aptos blog" description="" type="rss" version="RSS" htmlUrl="https://www.aptos.com/blog/" xmlUrl="https://www.aptos.com/blog/rss"/>
 		<outline text="Messari Crypto News Feed" title="Messari Crypto News Feed" description="" type="rss" version="RSS" htmlUrl="https://messari.io/" xmlUrl="https://messari.io/rss"/>	
 		<outline text="TechFlow (Chinese)" title="TechFlow (Chinese)" description="" type="rss" version="RSS" htmlUrl="https://techflowpost.substack.com/" xmlUrl="https://techflowpost.substack.com/feed"/>		
 		<outline text="TechFlow (Chinese)" title="TechFlow (Chinese)" description="" type="rss" version="RSS" htmlUrl="https://techflowpost.mirror.xyz/" xmlUrl="https://techflowpost.mirror.xyz/feed/atom"/>
