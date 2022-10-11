@@ -1,0 +1,14 @@
+npm install rsshub --save
+const RSSHub = require('rsshub');
+
+RSSHub.init({
+    // config
+});
+
+RSSHub.request('/bilibili/bangumi/media/40886030')
+    .then((data) => {
+        console.log(data);
+    })
+    .catch((e) => {
+        console.log(e);
+    });
