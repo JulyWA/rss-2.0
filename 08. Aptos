@@ -8,19 +8,8 @@
 <outline text="测试" title="测试">
 <outline text="Anchor Protocol" title="Anchor Protocol" description="" type="rss" version="RSS" htmlUrl="https://twitter.com/anchor_protocol" xmlUrl="https://twitter.com/anchor_protocol"/>
 <outline text="THORChain" title="THORChain" description="" type="rss" version="RSS" htmlUrl="https://twitter.com/thorchain" xmlUrl="https://twitter.com/thorchain"/>
-<outline text="Celestia Blog" title="Celestia Blog" description="" type="rss" version="RSS" htmlUrl="https://blog.celestia.org/" xmlUrl="https://blog.celestia.org/rss/"/>
-<outline text="ChainFeeds" title="ChainFeeds" description="" type="rss" version="RSS" htmlUrl="https://mirror.xyz/chainfeeds.eth/" xmlUrl="http://mirror.xyz/chainfeeds.eth/feed/atom"/>
-<outline text="Chainlink" title="Chainlink" description="" type="rss" version="RSS" htmlUrl="https://blog.chain.link/" xmlUrl="https://blog.chain.link/rss/"/>
-<outline text="Anchor Protocol - Medium" title="Anchor Protocol - Medium" description="" type="rss" version="RSS" htmlUrl="https://anchor-protocol.medium.com/" xmlUrl="https://medium.com/feed/anchor-protocol.medium.com/"/>
-<outline text="ConsenSys" title="ConsenSys" description="" type="rss" version="RSS" htmlUrl="https://consensys.net/" xmlUrl="https://feeds.feedburner.com/ConsenSys/posts"/>
-<outline text="ConsenSys Media - Medium" title="ConsenSys Media - Medium" description="" type="rss" version="RSS" htmlUrl="https://media.consensys.net?source=rss----3018c972aab8---4/" xmlUrl="https://media.consensys.net/feed"/>
-<outline text="Decentraland" title="Decentraland" description="" type="rss" version="RSS" htmlUrl="https://decentraland.org/blog/" xmlUrl="https://decentraland.org/blog/feed.xml"/>
-<outline text="DFINITY on Medium" title="DFINITY on Medium" description="" type="rss" version="RSS" htmlUrl="https://medium.com/@dfinity?source=rss-f46cd59473d8------2" xmlUrl="https://medium.com/feed/@dfinity"/>
-<outline text="dYdX - The Integral" title="dYdX - The Integral" description="" type="rss" version="RSS" htmlUrl="https://integral.dydx.exchange/" xmlUrl="https://integral.dydx.exchange/rss/"/>
-<outline text="ENS" title="ENS" description="" type="rss" version="RSS" htmlUrl="https://ens.mirror.xyz/" xmlUrl="https://ens.mirror.xyz/feed/atom"/>
-<outline text="Ethereum Blog" title="Ethereum Blog" description="" type="rss" version="RSS" htmlUrl="https://blog.ethereum.org/" xmlUrl="https://blog.ethereum.org/feed.xml"/>
-<outline text="Filecoin" title="Filecoin" description="" type="rss" version="RSS" htmlUrl="https://filecoin.io/blog/feed/" xmlUrl="https://filecoin.io/blog/feed/index.xml"/>
-
+<outline text="Anchor Protocol - Medium" title="Anchor Protocol - Medium" description="" type="rss" version="RSS" htmlUrl="https://anchor-protocol.medium.com/" xmlUrl="https://anchor-protocol.medium.com/feed"/>
+<outline text="THORChain - Medium" title="THORChain - Medium" description="" type="rss" version="RSS" htmlUrl="https://thorchain.medium.com/" xmlUrl="https://thorchain.medium.com/feed"/>
 	</outline>
 	</body>
 </opml>
