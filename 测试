@@ -8,8 +8,8 @@
 <outline text="测试" title="测试">
 <outline text="Anchor Protocol" title="Anchor Protocol" description="" type="rss" version="RSS" htmlUrl="https://twitter.com/anchor_protocol" xmlUrl="https://twitter.com/anchor_protocol"/>
 <outline text="THORChain" title="THORChain" description="" type="rss" version="RSS" htmlUrl="https://twitter.com/thorchain" xmlUrl="https://twitter.com/thorchain"/>
-<outline text="Anchor Protocol - Medium" title="Anchor Protocol - Medium" description="" type="rss" version="RSS" htmlUrl="https://anchor-protocol.medium.com/" xmlUrl="https://anchor-protocol.medium.com/feed"/>
-<outline text="THORChain - Medium" title="THORChain - Medium" description="" type="rss" version="RSS" htmlUrl="https://thorchain.medium.com/" xmlUrl="https://thorchain.medium.com/feed"/>
+<outline text="Anchor Protocol on Medium" title="Anchor Protocol on Medium" description="" type="rss" version="RSS" htmlUrl="https://medium.com/@anchor-protocol?source=rss-f25c4bc72765------2" xmlUrl="https://medium.com/feed/@anchor-protocol"/>	
+<outline text="THORChain on Medium" title="THORChain on Medium" description="" type="rss" version="RSS" htmlUrl="https://medium.com/@thorchain?source=rss-5ad6957d7610------2" xmlUrl="https://medium.com/feed/@thorchain"/>	
 	</outline>
 	</body>
 </opml>
