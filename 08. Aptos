@@ -5,16 +5,10 @@
 		<title>RAW.opml</title>
 	</head>
 <body>
-	<outline text="08. Aptos" title="08. Aptos">
-		<outline text="Aptos mirror" title="Aptos mirror" description="" type="rss" version="RSS" htmlUrl="https://mirror.xyz/aptoslabsoffice.eth/" xmlUrl="https://mirror.xyz/aptoslabsoffice.eth/feed/atom">
-		<outline text="Blockworks" title="Blockworks" description="" type="rss" version="RSS" htmlUrl="https://blockworks.co/" xmlUrl="https://blockworks.co/feed/"/>
-		<outline text="CoinDesk" title="CoinDesk" description="" type="rss" version="RSS" htmlUrl="https://www.coindesk.com/" xmlUrl="http://feeds.feedburner.com/Coindesk"/>
-		<outline text="Cointelegraph.com News" title="Cointelegraph.com News" description="" type="rss" version="RSS" htmlUrl="https://cointelegraph.com/" xmlUrl="https://cointelegraph.com/rss"/>
-		<outline text="Crypto Briefing" title="Crypto Briefing" description="" type="rss" version="RSS" htmlUrl="https://cryptobriefing.com/" xmlUrl="https://cryptobriefing.com/feed/"/>
-		<outline text="Crypto News on Seeking Alpha" title="Crypto News on Seeking Alpha" description="" type="rss" version="RSS" htmlUrl="https://seekingalpha.com/news/crypto" xmlUrl="https://seekingalpha.com/news/crypto/feed"/>
-		<outline text="Decrypt" title="Decrypt" description="" type="rss" version="RSS" htmlUrl="https://decrypt.co/feed" xmlUrl="https://decryptmedia.com/feed/"/>
-		<outline text="Hacker Noon" title="Hacker Noon" description="" type="rss" version="RSS" htmlUrl="http://github.com/dylang/node-rss" xmlUrl="https://hackernoon.com/feed"/>
-		<outline text="Trustnodes" title="Trustnodes" description="" type="rss" version="RSS" htmlUrl="https://www.trustnodes.com/" xmlUrl="https://www.trustnodes.com/feed"/>
+<outline text="测试" title="测试">
+<outline text="Anchor Protocol" title="Anchor Protocol" description="" type="rss" version="RSS" htmlUrl="https://twitter.com/anchor_protocol" xmlUrl="https://twitter.com/anchor_protocol"/>
+<outline text="THORChain" title="THORChain" description="" type="rss" version="RSS" htmlUrl="https://twitter.com/thorchain" xmlUrl="https://twitter.com/thorchain"/>
+
 	</outline>
 	</body>
 </opml>
