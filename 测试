@@ -6,20 +6,9 @@
 	</head>
 <body>
 <outline text="测试" title="测试">
-<outline text="Anchor Protocol" title="Anchor Protocol" description="" type="rss" version="RSS" htmlUrl="https://twitter.com/anchor_protocol" xmlUrl="https://twitter.com/anchor_protocol"/>
-<outline text="THORChain" title="THORChain" description="" type="rss" version="RSS" htmlUrl="https://twitter.com/thorchain" xmlUrl="https://twitter.com/thorchain"/>
-<outline text="Anchor Protocol on Medium" title="Anchor Protocol on Medium" description="" type="rss" version="RSS" htmlUrl="https://medium.com/@anchor-protocol?source=rss-f25c4bc72765------2" xmlUrl="https://medium.com/feed/@anchor-protocol"/>	
-<outline text="THORChain on Medium" title="THORChain on Medium" description="" type="rss" version="RSS" htmlUrl="https://medium.com/@thorchain?source=rss-5ad6957d7610------2" xmlUrl="https://medium.com/feed/@thorchain"/>	
-<outline text="@BiteyeCN" title="@BiteyeCN" description="" type="rss" version="RSS" htmlUrl="https://twitter.com/BiteyeCN" xmlUrl="https://twitter.com/BiteyeCN"/>
-<outline text="BTCdayu" title="BTCdayu" description="" type="rss" version="RSS" htmlUrl="https://twitter.com/BTCdayu" xmlUrl="https://twitter.com/BTCdayu"/>	
-<outline text="江卓尔_莱比特矿池" title="江卓尔_莱比特矿池" description="" type="rss" version="RSS" htmlUrl="https://twitter.com/jiangzhuoer2" xmlUrl="https://twitter.com/jiangzhuoer2"/>
-<outline text="Pima" title="Pima" description="" type="rss" version="RSS" htmlUrl="https://twitter.com/LeePima" xmlUrl="https://twitter.com/LeePima"/>	
-<outline text="DiscusFish" title="DiscusFish" description="" type="rss" version="RSS" htmlUrl="https://twitter.com/bitfish1" xmlUrl="https://twitter.com/bitfish1"/>	
-<outline text="Mindao" title="Mindao" description="" type="rss" version="RSS" htmlUrl="https://twitter.com/mindaoyang" xmlUrl="https://twitter.com/mindaoyang"/>
-<outline text="YeruiZhang" title="YeruiZhang" description="" type="rss" version="RSS" htmlUrl="https://twitter.com/YeruiZhang" xmlUrl="https://twitter.com/YeruiZhang"/>	
-<outline text="0xTodd" title="0xTodd" description="" type="rss" version="RSS" htmlUrl="https://twitter.com/0x_Todd" xmlUrl="https://twitter.com/0x_Todd"/>
-<outline text="Bit余烬" title="Bit余烬" description="" type="rss" version="RSS" htmlUrl="https://twitter.com/BitcoinEmber" xmlUrl="https://twitter.com/BitcoinEmber"/>		
-<outline text="蓝狐笔记" title="蓝狐笔记" description="" type="rss" version="RSS" htmlUrl="https://mirror.xyz/0xC36051E2bb2128c18B6E16e5013355A7D950b3F5" xmlUrl="https://mirror.xyz/0xC36051E2bb2128c18B6E16e5013355A7D950b3F5/feed/atom"/>	
+<outline text="uniwhale" title="uniwhale" description="" type="rss" version="RSS" htmlUrl="https://medium.com/uniwhale" xmlUrl="https://medium.com/feed/@uniwhale"/>
+	
+
 	</outline>
 	</body>
 </opml>
