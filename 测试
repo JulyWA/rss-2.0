@@ -6,9 +6,13 @@
 	</head>
 <body>
 <outline text="测试" title="测试">
-<outline text="aave" title="aave" description="" type="rss" version="RSS" htmlUrl="https://medium.com/aave" xmlUrl="https://medium.com/feed/@aave"/>
-	
-
+<outline text="杀破狼 | killthewolf.bit" title="杀破狼 | killthewolf.bit" description="" type="rss" version="RSS" htmlUrl="https://twitter.com/0xKillTheWolf" xmlUrl="https://rsshub.app/twitter/user/0xKillTheWolf"/>
+<outline text="老八撸币" title="老八撸币" description="" type="rss" version="RSS" htmlUrl="https://twitter.com/BTCOld8" xmlUrl="https://rsshub.app/twitter/user/BTCOld8"/>
+<outline text="Tmax 币圈作业本" title="Tmax 币圈作业本" description="" type="rss" version="RSS" htmlUrl="https://twitter.com/tmacmax01" xmlUrl="https://rsshub.app/twitter/user/tmacmax01"/>
+<outline text="请叫我Maik .lens" title="请叫我Maik .lens" description="" type="rss" version="RSS" htmlUrl="https://twitter.com/maik2hello" xmlUrl="https://rsshub.app/twitter/user/maik2hello"/>
+<outline text="Y林YourAirdrop.ETH" title="Y林YourAirdrop.ETH" description="" type="rss" version="RSS" htmlUrl="https://twitter.com/YourAirdropETH" xmlUrl="https://rsshub.app/twitter/user/YourAirdropETH"/>
+<outline text="bigplayer.eth" title="bigplayer.eth" description="" type="rss" version="RSS" htmlUrl="https://twitter.com/wsdxbz1" xmlUrl="https://rsshub.app/twitter/user/wsdxbz1"/>
+<outline text="Johns" title="Johns" description="" type="rss" version="RSS" htmlUrl="https://twitter.com/johns20178" xmlUrl="https://rsshub.app/twitter/user/johns20178"/>
 	</outline>
 	</body>
 </opml>
